@@ -5,7 +5,7 @@ function Y = identity(X)
 %   argument. In equations, the function is given by f(x) = x.
 %  added comment from a new release. check if rake task gets it
 %   https://en.wikipedia.org/wiki/Identity_function
-% change from 23b pre-release ... update after switching to main config when 1.3
+% change from 23b pre-release ... update after switching back to releases. will create 1.4
 % packaging
 % test comment for bash
 
